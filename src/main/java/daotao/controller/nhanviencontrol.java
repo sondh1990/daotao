@@ -33,7 +33,7 @@ public class nhanviencontrol {
 
 		nvRepository.save(nv);
 
-		return new ResponseEntity<>("Đã insert dữ liệu", HttpStatus.OK);
+		return new ResponseEntity<>("Đã insert dữ liệuaaaaa", HttpStatus.OK);
 
 	}
 
